@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/btn_login.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/btn_register.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/empty_rectangle.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_about.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_baseline_skip_next_24.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_baseline_skip_previous_24.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_bike.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_bike_splashscreen.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_calendar.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_circuit.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_elevation.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_launcher_background.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_mode_1.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_mode_2.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_mode_3.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_notification.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_pause.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_play.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_settings.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/drawable/ic_stop.xml" value="0.139" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/activity_main2.xml" value="0.11458333333333333" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/activity_music.xml" value="0.1875" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/activity_music_player.xml" value="0.1875" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/authentication_activity.xml" value="0.2" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/calendar.xml" value="0.12613981762917933" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/configuration.xml" value="0.264" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/elevation.xml" value="0.12613981762917933" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/historic.xml" value="0.264" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/historic_item.xml" value="0.176" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/list_empty_item.xml" value="0.12613981762917933" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/list_item.xml" value="0.11510416666666666" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/main_activity.xml" value="0.12613981762917933" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/maps.xml" value="0.12613981762917933" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/music.xml" value="0.38671875" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/prueba.xml" value="0.17291666666666666" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/layout/recycler_item.xml" value="0.1875" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/menu/mode_menu.xml" value="0.1875" />
+        <entry key="..\:/2022-A/GES/ReadyRun/app/src/main/res/menu/navigation_bar_menu.xml" value="0.1875" />
+        <entry key="..\:/Laboratorio ADNP/proyecto velos-mus/ReadyRun/app/src/main/res/layout/authentication_activity.xml" value="0.14719202898550723" />
+        <entry key="..\:/Laboratorio ADNP/proyecto velos-mus/ReadyRun/app/src/main/res/layout/main_activity.xml" value="0.11851851851851852" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
